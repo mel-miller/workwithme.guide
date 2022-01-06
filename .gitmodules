@@ -89,3 +89,7 @@
 	path = jvoorhis
 	url = https://github.com/jvoorhis/workwithme.guide-myguide.git
 	branch = master
+[submodule "mel-miller"]
+	path = mel-miller
+	url = https://github.com/mel-miller/workwithme.guide-myguide.git
+	branch = master
